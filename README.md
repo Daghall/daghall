@@ -10,15 +10,14 @@ Geek, coder, photographer, obsessive runner.
 
 
 ## NPM Packages 📦
-
 | Name | Descriptipon |
 | --- | --- |
 | [The Pythia](https://github.com/Daghall/pythia) | Deterministic `Math.random()` for tests |
 | [Date-differ](https://github.com/Daghall/date-differ/) | Calculate difference between two dates |
 | [Run-pace](https://github.com/Daghall/run-pace/) | Calculate running pace |
+| [HLS Explore](https://github.com/Daghall/hls-explore/) | A simple CLI TUI tool to explore HLS streams |
 
 ## Educational 🧑‍🎓
-
 | Name | Descriptipon |
 | --- | --- |
 | [Kana](https://github.com/Daghall/kana) | Hiragana/katakana trainer |
